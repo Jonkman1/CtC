@@ -8,39 +8,42 @@ format: beamer
 
 ## Introductie
 
-![](images/CtC_voorkant.png){width=200}
+![](images/CtC_voorkant.png){width="200"}
 
 ## Opzet
-1. Achtergronden en probleem
-2. Uitgangspunten
-3. De strategie
-4. Vier kernelemementen 
-5. CtC-Nederland experiment (1999-2004)
-6. CtC-Nederland interesse (2005-2015)
-7. CtC-onderzoek (2008-2013)
-8. CtC-Nederland recente ontwikkelingen (na 2015)
-9. Andere landen
-11. Discussie
+
+1.  Achtergronden en probleem
+2.  Uitgangspunten
+3.  De strategie
+4.  Vier kernelemementen
+5.  CtC-Nederland experiment (1999-2004)
+6.  CtC-Nederland interesse (2005-2015)
+7.  CtC-onderzoek (2008-2013)
+8.  CtC-Nederland recente ontwikkelingen (na 2015)
+9.  Andere landen
+10. Discussie
 
 ## 1. Achtergronden en probleem
 
 ## MEG-problemen onder jonge mensen
-- Mentale, emotionele en gedragsproblemen van adolescenten kunnen tot levenslange problemen en stoornissen leiden
-- Als samenleving hebben we verantwoordelijk jongeren gezond en veilig te laten opgroeien
-- In preventief opzicht kan er in jonge fase veel worden gedaan
+
+-   Mentale, emotionele en gedragsproblemen van adolescenten kunnen tot levenslange problemen en stoornissen leiden
+-   Als samenleving hebben we verantwoordelijkheid jongeren gezond en veilig te laten opgroeien
+-   In preventief opzicht kan er in jonge fase veel worden gedaan
 
 ## Fase van adolecentie
 
-- Fase van mogelijkheden    
+-   Fase van mogelijkheden
 
-- Fase van risico's
+-   Fase van risico's
 
 ## MEG-problematiek jongeren
-- Delinquentie en geweld   
-- Problematisch alcohol- en drugsgebruik    
-- Schooluitval   
-- Tienerzwangerschappen      
-- Depressies en angsten   
+
+-   Delinquentie en geweld\
+-   Problematisch alcohol- en drugsgebruik\
+-   Schooluitval\
+-   Tienerzwangerschappen\
+-   Depressies en angsten
 
 ## Problematiek in Nederland
 
@@ -49,39 +52,43 @@ format: beamer
 ## 2. Uitgangspunten
 
 ## Communities that Care
-- Een preventief interventiesysteem dat de gezonde en veilige ontwikkeling van jongeren in gemeenschappen (steden, wijken) wil bevorderen
-- Ontwikkeld vanaf eindjaren '80 door David Hawkins en Rico Catalano van de Social Development Research Group in Seattle (USA)
-- Bouwt voort op ontwikkelingen in de preventiewetenschappen
+
+-   Een preventief interventiesysteem dat de gezonde en veilige ontwikkeling van jongeren in gemeenschappen (steden, wijken) wil bevorderen
+-   Ontwikkeld vanaf eindjaren '80 door David Hawkins en Rico Catalano van de Social Development Research Group in Seattle (USA)
+-   Bouwt voort op ontwikkelingen in de preventiewetenschappen
 
 ## Preventiewetenschappen
-- Weinig inzichten in oorzaken van problemen
-- Geen programma's om dit aan te pakken
-- Weinig relatie tussen wetenschap, beleid en praktijk
+
+-   Weinig inzichten in oorzaken van problemen
+-   Geen programma's om dit aan te pakken
+-   Weinig relatie tussen wetenschap, beleid en praktijk
 
 ## De theorie
-- Ontwikkeling
-- Contexten
-- Sociale determinanten
-- Verschillende niveaus
+
+-   Ontwikkeling
+-   Contexten
+-   Sociale determinanten
+-   Verschillende niveaus
 
 ## Ontwikkeling
-- MEG-problematiek ontwikkelt zich zelden spontaan    
-- Ontwikkelingspatronen waarin genen, ervaringen en omstandigheden op elkaar inwerken
-- Vroege ontwikkeling beïnvloedt cognitieve, sociale en mentale problemen van jongeren
-- Een groot deel van de problemen op volwassenleeftijd kennen oorsprong op jongere leeftijd
 
+-   MEG-problematiek ontwikkelt zich zelden spontaan\
+-   Ontwikkelingspatronen waarin genen, ervaringen en omstandigheden op elkaar inwerken
+-   Vroege ontwikkeling beïnvloedt cognitieve, sociale en mentale problemen van jongeren
+-   Een groot deel van de problemen op volwassenleeftijd kennen oorsprong op jongere leeftijd
 
 ## Contexten
+
 Overall speelt de ontwikkeling van jongeren zich in vier contexten af:
 
-- Gezin   
-- School   
-- Vriendengroep   
-- Wijk/stad/gemeenschap   
+-   Gezin\
+-   School\
+-   Vriendengroep\
+-   Wijk/stad/gemeenschap
 
 ## Sociale determinanten
 
-![Risico en protectieve factoren](images/Determinanten.png){width=200}
+![Risico en protectieve factoren](images/Determinanten.png){width="200"}
 
 ## Sociale determinanten risico's
 
@@ -89,55 +96,50 @@ Overall speelt de ontwikkeling van jongeren zich in vier contexten af:
 
 ## Sociale determinanten protectie
 
-
 ![Protectie in de familie](images/PFFamilie.png)
-
 
 ## Verschillende niveau's
 
-![Verschillende niveau's van invloed](images/Niveaus.png){width=200}
-
+![Verschillende niveau's van invloed](images/Niveaus.png){width="200"}
 
 ## 3. De strategie
 
 ## Vijf fasen
-- Fase 1: Mobilisatie inwoners van een bepaalde stad, gemeenschap of wijk en betrokkenen bij de 
-opvoeding en ontwikkeling van de jeugd      
-- Fase 2: Creëren van een gemeenschappelijke visie en taal, en het opzetten van een coherente planning 
-structuur      
-- Fase 3: Prioritering van de inspanningen obv onderzoek RF/BF-factoren       
-- Fase 4: Lacunes en overlappingen programma's identificeren. Plan maken      
-- Fase 5: Implementeren en evalueren    
 
+-   Fase 1: Mobilisatie inwoners van een bepaalde stad, gemeenschap of wijk en betrokkenen bij de opvoeding en ontwikkeling van de jeugd\
+-   Fase 2: Creëren van een gemeenschappelijke visie en taal, en het opzetten van een coherente planning structuur\
+-   Fase 3: Prioritering van de inspanningen obv onderzoek RF/BF-factoren\
+-   Fase 4: Lacunes en overlappingen programma's identificeren. Plan maken\
+-   Fase 5: Implementeren en evalueren
 
 De kern van de aanpak is de analyse van de situatie en problemen binnen een stad of wijk
 
 ## Vijf fasen in beeld
 
-![Vijf fasen](images/Fasen.png){width=200}
+![Vijf fasen](images/Fasen.png){width="200"}
 
-## 4. Vier kernelemementen 
-- Gebruik van zelfde implementatieproces    
-- Het gebruik van epidemiologische data   
-- Het gebruik van veelbelovende en effectieve programma's   
-- Voortdurende evaluatie en herhalend onderzoek   
+## 4. Vier kernelemementen
 
+-   Gebruik van zelfde implementatieproces\
+-   Het gebruik van epidemiologische data\
+-   Het gebruik van veelbelovende en effectieve programma's\
+-   Voortdurende evaluatie en herhalend onderzoek
 
 ## Hetzelfde implementatieproces
-- Fase 1: Opstarten (Readiness meeting, introductietraining)      
-- Fase 2: Geörganiseerd krijgen (Training Sleutelfiguren, Training Preventieteam)      
-- Fase 3: Ontwikkelen profiel (Assessment training, Training programma's)    
-- Fase 4: Plan maken (Planningstraining)     
-- Fase 5: Implementatie en evaluatie (Training) 
+
+-   Fase 1: Opstarten (Readiness meeting, introductietraining)\
+-   Fase 2: Geörganiseerd krijgen (Training Sleutelfiguren, Training Preventieteam)\
+-   Fase 3: Ontwikkelen profiel (Assessment training, Training programma's)\
+-   Fase 4: Plan maken (Planningstraining)\
+-   Fase 5: Implementatie en evaluatie (Training)
 
 ## Tijdlijn
 
 ![Fasen in tijd uitgezet](images/Tijdlijn.png)
 
-
 ## Scholierenonderzoek
 
-![Scholierenonderzoek](images/Scholierenonderzoek.png){width=200}
+![Scholierenonderzoek](images/Scholierenonderzoek.png){width="200"}
 
 zie [hier](https://rothenbach-research.com/surveys/CTCYS_Sample_Report.pdf)
 
@@ -145,78 +147,81 @@ zie [hier](https://rothenbach-research.com/surveys/CTCYS_Sample_Report.pdf)
 
 ![Veelbelovend en effectief](images/Veelbelovend.png)
 
-
 ## 5. CtC-Nederland experiment (1999-2004)
 
 ## Begin
-- Rapporten Junger-Tas (1996, 1997)   
-- CtC als maatschappelijk antwoord op toenemende jeugdcriminaliteit en geweld
-- Gestructureerd, wijkgericht, effectief
 
-## NIZW 
-- Uitzetten in vier gemeenten/wijken (Amsterdam, Rotterdam, Arnhem en Zwolle)   
-- Trainingen ontwikkelen, implementeren en begeleiden
-- Scholierenonderzoek ontwikkelen en uitzettten
-- Veelbelovende en effectieve programma's
+-   Rapporten Junger-Tas (1996, 1997)\
+-   CtC als maatschappelijk antwoord op toenemende jeugdcriminaliteit en geweld
+-   Gestructureerd, wijkgericht, effectief
+
+## NIZW
+
+-   Uitzetten in vier gemeenten/wijken (Amsterdam, Rotterdam, Arnhem en Zwolle)\
+-   Trainingen ontwikkelen, implementeren en begeleiden
+-   Scholierenonderzoek ontwikkelen en uitzettten
+-   Veelbelovende en effectieve programma's
 
 ## Resultaten
-- Toename van de kwaliteit van planning en besluitvorming      
-- Meer samenwerking tussen aanbieders         
-- Meer coördinatie bij de programmering van preventieve maatregelen     
-- Meer gerichtheid op onderliggende factoren (risico- en beschermende factoren)    
-- Meer gebruik effectieve en veelbelovende benaderingen   
-- Meer maatschappelijke betrokkenheid 
+
+-   Toename van de kwaliteit van planning en besluitvorming\
+-   Meer samenwerking tussen aanbieders\
+-   Meer coördinatie bij de programmering van preventieve maatregelen\
+-   Meer gerichtheid op onderliggende factoren (risico- en beschermende factoren)\
+-   Meer gebruik effectieve en veelbelovende benaderingen\
+-   Meer maatschappelijke betrokkenheid
 
 ## Algemene opmerking
-- Behoorde tot nieuwe generatie strategieën waarin onderzoek, effectieve programma's, implementatie en evaluatie wordt samengebracht    
-- Veel invloed van centrale overheid   
-- Groeiende interesse   
+
+-   Behoorde tot nieuwe generatie strategieën waarin onderzoek, effectieve programma's, implementatie en evaluatie worden samengebracht\
+-   Veel invloed van centrale overheid\
+-   Groeiende interesse
 
 ## 6. CtC-Nederland interesse (2005-2015)
-- Groeiende interesse waaronder Leeuwarden, Almere, provincie Zuid-Holland en diverse steden daar    
-- Verdere kwaliteitsontwikkeling en controle
-- Ook internationale interesse (Nederlandse Antillen, Duitsland en Zweden)   
-- Wetenschappelijke samenwerking met USA en Australie 
+
+-   Groeiende interesse waaronder Leeuwarden, Almere, provincie Zuid-Holland en diverse steden daar\
+-   Verdere kwaliteitsontwikkeling en controle
+-   Ook internationale interesse (Nederlandse Antillen, Duitsland en Zweden)\
+-   Wetenschappelijke samenwerking met USA en Australie
 
 ## 7. CtC-onderzoek (2008-2013)
 
 ![Design](images/Design.png)
 
-## Invloed op probleemgedragingen 
+## Invloed op probleemgedragingen
 
 ![Inlvoed op probleemgedragingen](images/PGInvloed.png)
-
 
 ## Onderliggende factoren
 
 Ook op risicofactoren en beschermende factoren geen invloed
 
 ## Hoe dit te begrijpen?
-- Beperkte inzet van effectieve programma's   
-- Geen invloed op inzet van deze programma's
-- Vertraagde en beperkte implementatie van CtC in de experimentele wijken    
-- Gedeeltelijke contaminatie   
+
+-   Beperkte inzet van effectieve programma's\
+-   Geen invloed op inzet van deze programma's
+-   Vertraagde en beperkte implementatie van CtC in de experimentele wijken\
+-   Gedeeltelijke contaminatie
 
 ## Procesonderzoek wel positief
-CtC vooral een strategisch sturingsinstrument dat ertoe bijdraagt dat instellingen uit de verschillende sectoren op het terrein van preventie effectief en efficiënt samenwerken.    
 
-- CtC instrumenteert een nauwkeurige probleemanalyse   
-- Het bevordert de samenwerking   
-- Het geeft concreet richting aan een preventieve aanpak.   
+CtC vooral een strategisch sturingsinstrument dat ertoe bijdraagt dat instellingen uit de verschillende sectoren op het terrein van preventie effectief en efficiënt samenwerken.
+
+-   CtC instrumenteert een nauwkeurige probleemanalyse\
+-   Het bevordert de samenwerking\
+-   Het geeft concreet richting aan een preventieve aanpak.
 
 ## 8. Ontwikkelingen na 2015
 
-Afname van de interesse voor CtC in Nederland
-- Minder geld   
-- Decentralisatie   
-- Geen centrale rol meer van één CtC partij      
-- Beperkte resultaten onderzoek     
-
+Afname van de interesse voor CtC in Nederland - Minder geld\
+- Decentralisatie\
+- Geen centrale rol meer van één CtC partij\
+- Beperkte resultaten onderzoek
 
 ## 9. Andere landen
 
-
 ## Amerika
+
 > CTC has shown to be effective in reducing alcohol use, substance use, antisocial and violent behaviour, improving academic performance, and strengthening protective factors. In addition to these improvements to adolescent health and behaviour outcomes, large US trials of Communities That Care have demonstrated that CTC communities are more likely to adopt and implement evidence based programs compared to control communities.
 
 ## Amerikaanse publicaties
@@ -227,7 +232,7 @@ Afname van de interesse voor CtC in Nederland
 
 ## Australië
 
-> Research around adolescent alcohol use in the Australian context has shown that community-family-school coalitions can reduce youth alcohol use. Alcohol and drug policies at the school and community levels can also make a potentially important contribution to reducing community rates of alcohol and drug use. In particular, there is evidence that community policies for the sale and supply of alcohol effect early adolescent alcohol use. 
+> Research around adolescent alcohol use in the Australian context has shown that community-family-school coalitions can reduce youth alcohol use. Alcohol and drug policies at the school and community levels can also make a potentially important contribution to reducing community rates of alcohol and drug use. In particular, there is evidence that community policies for the sale and supply of alcohol effect early adolescent alcohol use.
 
 ## Australische publicaties
 
@@ -239,10 +244,10 @@ Afname van de interesse voor CtC in Nederland
 
 ## Duitsland
 
-- Ook in Duitsland actief sinds 2010    
-- Op groot aantal plekken uitgezet 
-- Ook groot onderzoek  
-- [Hier](https://www.ctc-info.de/nano.cms/umsetzung) vind je informatie, maar niet erg up to date. 
+-   Ook in Duitsland actief sinds 2010\
+-   Op groot aantal plekken uitgezet
+-   Ook groot onderzoek\
+-   [Hier](https://www.ctc-info.de/nano.cms/umsetzung) vind je informatie, maar niet erg up to date.
 
 ## Europa
 
@@ -252,44 +257,37 @@ Afname van de interesse voor CtC in Nederland
 
 Onderzoek van Communities that Care in Europa (Engeland, Nederland, Duitsland, Kroatië en Cyprus)
 
-
-- Vergelijking prevalentie van delinquentie en alcohol en drugsgebruik in deze landen    
-- prevalentie van belangrijke risico en beschermende factoren in deze landen    
-- onderzoek naar de relatie tussen problemen en onderliggende factoren.
-
+-   Vergelijking prevalentie van delinquentie en alcohol en drugsgebruik in deze landen\
+-   prevalentie van belangrijke risico en beschermende factoren in deze landen\
+-   onderzoek naar de relatie tussen problemen en onderliggende factoren.
 
 ## 11. Discussie
 
-
 ## Betekenis voor sociale politiek
-- Promotie van welzijn, preventie van probleemgedrag, samenhangende sociale determinanten moet een van de kern zijn van jeugdpolitiek op internationaal, nationaal en lokaal niveau. 
-- Gemeenschappen (steden en wijken) hebben onderzoekssystemen nodig om incidentie en prevalentie van jeugdproblemen te kunnen onderzoeken en de ontwikkelingen ervan bij te horen.    
-- Samenwerken wordt al lang over gesproken, ook op het terrein van sociale politiek. Hoe je dat voor elkaar kunt krijgen is onduidelijk. Dit is een goed voorbeeld.    
-- Over effectieve programma's kun  je lang praten. Onderzoekers,  politici en praktijkmensen hebben een manier nodig om dit op bredere schaal uit te zetten. CtC is een voorbeeld hiervan.
+
+-   Promotie van welzijn, preventie van probleemgedrag, samenhangende sociale determinanten moet een van de kern zijn van jeugdpolitiek op internationaal, nationaal en lokaal niveau
+-   Gemeenschappen (steden en wijken) hebben onderzoekssystemen nodig om incidentie en prevalentie van jeugdproblemen te kunnen onderzoeken en de ontwikkelingen ervan bij te horen
+-   Samenwerken wordt al lang over gesproken, ook op het terrein van sociale politiek. Hoe je dat voor elkaar kunt krijgen is onduidelijk. Dit is een goed voorbeeld
+-   Over effectieve programma's kun je lang praten. Onderzoekers, politici en praktijkmensen hebben een manier nodig om dit op bredere schaal uit te zetten. CtC is een voorbeeld hiervan
 
 ## Betekenis vanuit onderzoek
-- Hoe kunnen  we lokale onderzoeksgegevens gebruiken?
-- Hoe kunnen wetenschap, politiek en praktijk samenwerken?
-- Preventie moet weten hoe zaken moeten worden versterkt en voorkomen. RF en BF inzichten is het beste wat we hebben. Wel meer in samenhang bekijken en ook de verschillende niveaus bekijken.
-- Nog steeds weten we weinig van de invloed van sociaal investeren. Onderzoek op dit terrein blijft nodig.
 
+-   Hoe kunnen we lokale onderzoeksgegevens gebruiken?
+-   Hoe kunnen wetenschap, politiek en praktijk samenwerken?
+-   Preventie moet weten hoe zaken moeten worden versterkt en voorkomen. RF en BF inzichten is het beste wat we hebben. Wel meer in samenhang bekijken en ook de verschillende niveaus bekijken
+-   Nog steeds weten we weinig van de invloed van sociaal investeren en onderzoek op dit terrein blijft nodig
 
+## CtC-Bezoek
+
+![CtC-sites in Niedersachsen](images/CTCDL.png)
 ## Tot slot
 
 Hartelijke dank
 
+dr. Harrie Jonkman
 
+Zuideinde 387e 1035PE Amsterdam
 
-
-
-dr. Harrie Jonkman   
-
-Zuideinde 387e
-1035PE Amsterdam
-
-harriejonkman@xs4all.nl
+harriejonkman\@xs4all.nl
 
 www.harriejonkman.nl
-
-
-
